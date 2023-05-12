@@ -1,0 +1,17 @@
+package Taskk1
+
+fun main(){
+  var your_age=25
+  var my_age=25
+ //AND
+  if ((your_age==my_age)&&(your_age==my_age))
+      println("true")
+    else
+        println("false")
+    //OR
+    if ((your_age==my_age)||(your_age==my_age))
+    println("true")
+  else
+      println("false")
+
+}
